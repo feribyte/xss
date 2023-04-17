@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/feribyte/xss/main/bxss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/feribyte/xss/main/bxss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
