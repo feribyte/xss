@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/feribyte/xss/main/swaggerxss.yaml",
+    "url": "https://raw.githubusercontent.com/feribyte/xss/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/feribyte/xss/main/swaggerxss.yaml",
-            "name": "XSS"
+            "url": "https://raw.githubusercontent.com/feribyte/xss/main/xss.yaml",
+            "name": "Foo"
         }
     ]
 }
