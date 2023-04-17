@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/feribyte/xss/main/steal.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/feribyte/xss/main/steal.yaml",
+            "name": "Foo"
+        }
+    ]
+}
